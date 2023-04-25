@@ -1,0 +1,21 @@
+*{
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 1%;
+    margin: auto;
+}
+body{
+    background-color: rgba(94, 151, 151, 0.144);
+    text-align: justify;
+    font-family: Helvetica;
+}
+h1{
+    color: rgba(8, 8, 85, 0.911);
+    text-align: center;
+    padding-top: 1%;
+    margin: 1%;
+}
+
+   
+    
+    
